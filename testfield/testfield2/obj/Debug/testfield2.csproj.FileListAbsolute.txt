@@ -1,0 +1,7 @@
+C:\Users\Сергей\source\repos\testfield\testfield2\bin\Debug\testfield2.exe.config
+C:\Users\Сергей\source\repos\testfield\testfield2\bin\Debug\testfield2.exe
+C:\Users\Сергей\source\repos\testfield\testfield2\bin\Debug\testfield2.pdb
+C:\Users\Сергей\source\repos\testfield\testfield2\obj\Debug\testfield2.csproj.AssemblyReference.cache
+C:\Users\Сергей\source\repos\testfield\testfield2\obj\Debug\testfield2.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\testfield\testfield2\obj\Debug\testfield2.exe
+C:\Users\Сергей\source\repos\testfield\testfield2\obj\Debug\testfield2.pdb

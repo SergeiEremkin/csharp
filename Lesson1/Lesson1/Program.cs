@@ -51,6 +51,18 @@ namespace Lesson1
                     Console.Write($"\n{i}");
                 }
             }
+
+            for (int i = 1; i<=100;i+=15)
+            {
+                Console.Write($"\n\n{i}");
+                Console.Write($"\n{i + 1}");
+                Console.Write($"\nfizz");
+                Console.Write($"\n{i + 3}");
+                Console.Write($"\nbuzz");
+                Console.Write($"\n{i + 10}");
+                Console.Write($"\nbuzz fizz");
+            } 
+
             Console.ReadKey();
 
         }

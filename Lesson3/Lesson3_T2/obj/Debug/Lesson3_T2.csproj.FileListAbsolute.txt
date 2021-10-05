@@ -1,0 +1,6 @@
+C:\Users\Сергей\source\repos\Lesson3\Lesson3_T2\bin\Debug\Lesson3_T2.exe.config
+C:\Users\Сергей\source\repos\Lesson3\Lesson3_T2\bin\Debug\Lesson3_T2.exe
+C:\Users\Сергей\source\repos\Lesson3\Lesson3_T2\bin\Debug\Lesson3_T2.pdb
+C:\Users\Сергей\source\repos\Lesson3\Lesson3_T2\obj\Debug\Lesson3_T2.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\Lesson3\Lesson3_T2\obj\Debug\Lesson3_T2.exe
+C:\Users\Сергей\source\repos\Lesson3\Lesson3_T2\obj\Debug\Lesson3_T2.pdb

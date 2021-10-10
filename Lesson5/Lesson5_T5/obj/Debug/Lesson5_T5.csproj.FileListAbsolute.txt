@@ -1,0 +1,7 @@
+C:\Users\Сергей\source\repos\Lesson5\Lesson5_T5\bin\Debug\Lesson5_T5.exe.config
+C:\Users\Сергей\source\repos\Lesson5\Lesson5_T5\bin\Debug\Lesson5_T5.exe
+C:\Users\Сергей\source\repos\Lesson5\Lesson5_T5\bin\Debug\Lesson5_T5.pdb
+C:\Users\Сергей\source\repos\Lesson5\Lesson5_T5\obj\Debug\Lesson5_T5.csproj.AssemblyReference.cache
+C:\Users\Сергей\source\repos\Lesson5\Lesson5_T5\obj\Debug\Lesson5_T5.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\Lesson5\Lesson5_T5\obj\Debug\Lesson5_T5.exe
+C:\Users\Сергей\source\repos\Lesson5\Lesson5_T5\obj\Debug\Lesson5_T5.pdb

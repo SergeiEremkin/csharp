@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfToDo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ToDo>
+    <Title>Пойти на работу у 8.00 утра</Title>
+    <IsDone>false</IsDone>
+  </ToDo>
+  <ToDo>
+    <Title>Приготовить ужин после работы в 19.00</Title>
+    <IsDone>false</IsDone>
+  </ToDo>
+  <ToDo>
+    <Title>Сделать домашку GB, начать в 20.00</Title>
+    <IsDone>false</IsDone>
+  </ToDo>
+  <ToDo>
+    <Title>Принять душ в 23.00</Title>
+    <IsDone>false</IsDone>
+  </ToDo>
+  <ToDo>
+    <Title>Лечь спать в 23.30</Title>
+    <IsDone>false</IsDone>
+  </ToDo>
+</ArrayOfToDo>

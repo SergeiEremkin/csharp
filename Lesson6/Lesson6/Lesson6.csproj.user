@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>"C:\Users\Сергей\source\repos\Lesson5\Lesson5_T5\bin\Debug\tasks.xml" "C:\Users\Сергей\source\repos\Lesson5\Lesson5_T3\bin\Debug\numbers.bin" "C:\Program Files %28x86%29\Call of Duty Modern Warfare\Modern Warfare Launcher.exe"</StartArguments>
+  </PropertyGroup>
+</Project>
